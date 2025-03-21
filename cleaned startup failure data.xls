@@ -1,0 +1,48 @@
+name,sector,what_they_did,how_much_they_raised,why_they_failed,takeaway,giants,no_budget,competition,poor_market_fit,acquisition_stagnation,platform_dependency,monetization_failure,niche_limits,execution_flaws,trend_shifts,toxicity/trust_issues,regulatory_pressure,overhype,start_year,end_year,years_active
+Avant,Finance and Insurance,Online personal loans,655.0,Lost to LendingClub and high defaults,Lending needs risk balance,1,1,1,0,0,0,0,0,0,0,0,0,0.0,2012,2023,11
+Bitpass,Finance and Insurance,Micropayments platform,2.0,Lost to PayPal and low adoption,Micropayments need mass use,1,0,1,1,0,0,0,0,0,0,0,0,0.0,2002,2008,6
+Cake Financial,Finance and Insurance,Portfolio tracking tool,3.0,Lost to Mint and sold to TradeKing,Finance tools need scale,1,0,1,0,1,0,0,0,0,0,0,0,0.0,2006,2011,5
+Circle,Finance and Insurance,Crypto payments and stablecoin,500.0,Lost to Coinbase and market shifts,Crypto needs stability,1,0,1,0,0,0,0,0,0,1,0,0,0.0,2013,2023,10
+Clarity Money,Finance and Insurance,Personal finance app,11.0,Lost to Mint/Acorns and sold to Goldman,Finance apps need edge,1,0,1,0,1,0,0,0,0,0,0,0,0.0,2016,2022,6
+Clinkle,Finance and Insurance,Mobile wallet,30.0,No product vs Apple Pay/PayPal,Execution over promises,1,0,1,0,0,0,0,0,1,0,0,0,1.0,2011,2016,5
+Coinbase NFT,Finance and Insurance,NFT marketplace,0.0,Lost to OpenSea and NFT crash,NFTs need timing,1,0,1,0,0,0,0,0,0,1,0,0,0.0,2021,2023,2
+FundersClub,Finance and Insurance,Crowdfunding for startups,20.0,Lost to Kickstarter and low ROI,Crowdfunding needs hits,1,0,1,0,0,0,1,0,0,0,0,0,0.0,2012,2022,10
+Fuze Network,Finance and Insurance,Prepaid card payments,5.0,Lost to Green Dot and small scale,Prepaid needs reach,1,0,1,0,0,0,0,1,0,0,0,0,0.0,2010,2016,6
+Indiegogo Life,Finance and Insurance,Personal crowdfunding,10.0,Lost to GoFundMe and niche focus,Personal funding needs appeal,1,0,1,1,0,0,0,1,0,0,0,0,0.0,2014,2019,5
+Isentium,Finance and Insurance,Social sentiment for trading,15.0,Lost to Bloomberg and low uptake,Trading tools need traction,1,0,1,1,0,0,0,0,0,0,0,0,0.0,2012,2020,8
+LendUp,Finance and Insurance,Loans for subprime borrowers,350.0,Regulatory fines and OppLoans competition,Fintech can’t skirt regs,1,0,1,0,0,0,0,0,0,0,1,1,0.0,2012,2021,9
+LendingClub,Finance and Insurance,P2P lending platform,1.0,Lost to banks and trust issues,P2P needs trust,1,0,1,0,0,0,0,0,0,0,1,0,0.0,2006,2021,15
+LendLayer,Finance and Insurance,Coding bootcamp loans,0.4,Lost to Affirm and sold,Small niches get swallowed,1,0,1,0,1,0,0,1,0,0,0,0,0.0,2013,2017,4
+Loyal3,Finance and Insurance,Commission-free brokerage,30.0,Lost to Robinhood and closed,Brokerages need volume,1,0,1,0,0,0,0,0,0,0,0,0,0.0,2008,2018,10
+Money360,Finance and Insurance,Real estate lending platform,10.0,Lost to Fundrise and slow growth,Lending needs scale,1,0,1,0,0,0,0,0,0,0,0,0,0.0,2012,2020,8
+Monitor110,Finance and Insurance,Financial data aggregator,3.0,Lost to Bloomberg and early market,Timing is key,1,0,1,1,0,0,0,0,0,0,0,0,0.0,2005,2008,3
+Mozido,Finance and Insurance,Mobile payments platform,185.0,Lost to Square and mismanagement,Payments need execution,1,0,1,0,0,0,0,0,1,0,0,0,0.0,2008,2017,9
+Pawngo,Finance and Insurance,Online pawn lending,6.0,Lost to traditional pawnshops and niche,Niche lending needs demand,0,0,1,1,0,0,0,1,0,0,0,0,0.0,2011,2017,6
+Pay By Touch,Finance and Insurance,Biometric payments,300.0,Lost to PayPal and tech issues,Biometrics need reliability,1,0,1,0,0,0,0,0,1,0,0,0,0.0,2002,2007,5
+Plum Will,Finance and Insurance,Digital estate planning,2.0,Lost to LegalZoom and low uptake,Estate tech needs traction,1,0,1,1,0,0,0,0,0,0,0,0,0.0,2015,2020,5
+PoundPay,Finance and Insurance,Payment gateway,1.0,Lost to Stripe and sold,Payments need scale,1,0,1,0,1,0,0,0,0,0,0,0,0.0,2009,2013,4
+ReadyForZero,Finance and Insurance,Debt management app,5.0,Lost to Credit Karma and sold,Debt tools need edge,1,0,1,0,1,0,0,0,0,0,0,0,0.0,2010,2017,7
+RushCard,Finance and Insurance,Prepaid debit card,20.0,Lost to Chime and trust issues,Prepaid needs trust,1,0,1,0,0,0,0,0,0,0,1,0,0.0,2003,2018,15
+Seed,Finance and Insurance,Small biz banking,5.0,Lost to Brex and closed,Banking needs scale,1,0,1,0,0,0,0,0,0,0,0,0,0.0,2012,2017,5
+Sensible,Finance and Insurance,Personal finance for gig workers,4.0,Lost to Even and niche,Niche finance needs reach,1,0,1,1,0,0,0,1,0,0,0,0,0.0,2016,2020,4
+SigFig,Finance and Insurance,Robo-advisor,70.0,Lost to Wealthfront and sold,Robo-advisors need edge,1,0,1,0,1,0,0,0,0,0,0,0,0.0,2007,2018,11
+Simple,Finance and Insurance,Neobank with budgeting,25.0,Lost to Chime/Ally and shut post-BBVA sale,Neobanks need independence,1,0,1,0,1,0,0,0,0,0,0,0,0.0,2009,2016,7
+SmartAsset,Finance and Insurance,Financial planning tools,161.0,Lost to NerdWallet and slow growth,Planning needs traction,1,0,1,0,0,0,0,0,0,0,0,0,0.0,2012,2023,11
+SoFi Social,Finance and Insurance,Social finance platform,0.0,Lost to Robinhood and niche,Social finance needs scale,1,0,1,1,0,0,0,1,0,0,0,0,0.0,2016,2021,5
+Square Cash,Finance and Insurance,P2P payments (early),0.0,Lost to Venmo and pivoted,Payments need dominance,1,0,1,0,0,0,0,0,0,0,0,0,0.0,2013,2020,7
+Taulia,Finance and Insurance,Supply chain finance,200.0,Lost to Coupa and sold,Finance needs edge,1,0,1,0,1,0,0,0,0,0,0,0,0.0,2009,2022,13
+Tilt,Finance and Insurance,Social crowdfunding,67.0,Lost to GoFundMe and sold,Crowdfunding needs mass,1,0,1,0,1,0,0,0,0,0,0,0,0.0,2012,2018,6
+Toshl,Finance and Insurance,Personal finance app,1.0,Lost to Mint and low scale,Finance apps need reach,1,0,1,0,0,0,0,0,0,0,0,0,0.0,2008,2020,12
+TrustEgg,Finance and Insurance,Crowdfunded trusts,0.5,Lost to traditional trusts and niche,Niche needs demand,0,0,1,1,0,0,0,1,0,0,0,0,0.0,2012,2016,4
+Upstart,Finance and Insurance,AI-driven lending,144.0,Lost to banks and high defaults,Lending needs stability,1,1,1,0,0,0,0,0,0,0,0,0,0.0,2012,2023,11
+Vemo,Finance and Insurance,Income-share agreements,20.0,Lost to Lambda School and regs,ISAs need traction,1,0,1,0,0,0,0,0,0,0,0,1,0.0,2015,2021,6
+Venmo Groups,Finance and Insurance,Group payments feature,0.0,Lost to Splitwise and niche,Niche payments need use,1,0,1,1,0,0,0,1,0,0,0,0,0.0,2015,2020,5
+Vittana,Finance and Insurance,Student microloans,5.0,Lost to SoFi and low scale,Microloans need reach,1,0,1,0,0,0,0,1,0,0,0,0,0.0,2008,2015,7
+Wealthfront Cash,Finance and Insurance,High-yield savings,0.0,Lost to Ally and pivoted,Savings need edge,1,0,1,0,0,0,0,0,0,0,0,0,0.0,2018,2023,5
+Wealthsimple Trade,Finance and Insurance,Commission-free trading,0.0,Lost to Robinhood and pivoted,Trading needs volume,1,0,1,0,0,0,0,0,0,0,0,0,0.0,2017,2023,6
+Wepay,Finance and Insurance,Payment processing,75.0,Lost to Stripe and sold,Payments need scale,1,0,1,0,1,0,0,0,0,0,0,0,0.0,2008,2020,12
+Wesabe,Finance and Insurance,Personal finance app,4.0,Lost to Mint and early market,Timing matters,1,0,1,1,0,0,0,0,0,0,0,0,0.0,2006,2011,5
+Wise,Finance and Insurance,International transfers,689.0,Lost to PayPal and high costs,Transfers need edge,1,1,1,0,0,0,0,0,0,0,0,0,0.0,2011,2023,12
+YayPay,Finance and Insurance,Accounts receivable automation,15.0,Lost to Bill.com and sold,Automation needs scale,1,0,1,0,1,0,0,0,0,0,0,0,0.0,2015,2021,6
+Ycharts,Finance and Insurance,Financial data platform,15.0,Lost to Bloomberg and sold,Data needs dominance,1,0,1,0,1,0,0,0,0,0,0,0,0.0,2009,2021,12
+ZestFinance,Finance and Insurance,AI underwriting loans,112.0,Lost to Upstart and regs,Lending needs compliance,1,0,1,0,0,0,0,0,0,0,0,1,0.0,2009,2020,11
